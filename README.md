@@ -59,7 +59,7 @@ Utilisation
 
     Accéder à l'application :
 
-    Ouvrez votre navigateur et accédez à l'URL de votre serveur (ex. http://localhost/Planning-Epluchage/ ou l'URL fournie par OVH si l'application est déployée).
+    Ouvrez votre navigateur et accédez à l'URL de votre serveur (https://projet-web-training.ovh/licence19/Planning-Epluchage/).
 
     S'inscrire ou se connecter :
         Vous pouvez vous inscrire avec un email, un nom d'utilisateur et un mot de passe.
@@ -70,11 +70,7 @@ Utilisation
 
     Statistiques :
         Vous pouvez voir les statistiques des utilisateurs et combien de tâches chaque utilisateur a été assigné.
-
-Problèmes connus
-
-    Problème de connexion à OVH : La connexion avec MongoDB sur OVH ne fonctionne pas actuellement, malgré des tentatives de configuration. Le projet fonctionne parfaitement avec MongoDB Cloud et il est donc recommandé d'utiliser MongoDB Cloud pour les bases de données.
-
+    
 Contribution
 
 Si vous souhaitez contribuer à ce projet, veuillez créer une pull request ou soumettre des issues pour toute suggestion ou problème rencontré.
