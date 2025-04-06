@@ -71,9 +71,4 @@ Utilisation
     Statistiques :
         Vous pouvez voir les statistiques des utilisateurs et combien de tâches chaque utilisateur a été assigné.
     
-Contribution
-
-Si vous souhaitez contribuer à ce projet, veuillez créer une pull request ou soumettre des issues pour toute suggestion ou problème rencontré.
-Auteurs
-
     Thanus SHANTHAKUMAR
